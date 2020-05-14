@@ -1,0 +1,40 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+    background: #2F4F30;;
+}
+
+.titulo{
+
+    font-size: 40px;
+    color:white;
+    background: black;
+    text-align: center;
+
+}
+
+#jugadores, #ordenador{
+
+    color: white;
+}
+#cartas{
+    position: relative;
+    width: 100px;
+    left: 100px;
+    margin-left:-75px;
+}
+
+#cartas:hover{
+    position: relative;
+    width: 120px;
+    left: 120px;
+    margin-left:-70px;
+}
+
+h3{
+    color:white;
+}
+
+h2{
+    color:white;
+}
